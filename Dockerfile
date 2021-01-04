@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre8 
+From tomee:8-jre-1.7.2-webprofile
 
 # Maintainer 
 MAINTAINER "praveen reddy" 
